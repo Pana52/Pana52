@@ -1,0 +1,5 @@
+<svg width="1200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <image href="https://raw.githubusercontent.com/Pana52/Pana52/main/red_bg.jpg" x="0" y="0" width="1200" height="200" preserveAspectRatio="xMidYMid slice"/>
+  <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="bold" fill="#ffffff">Welcome to my Profile</text>
+  <text x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#ffffffcc">Full-Stack Dev &nbsp;|&nbsp; Game Dev &nbsp;|&nbsp; Blender Artist</text>
+</svg>
