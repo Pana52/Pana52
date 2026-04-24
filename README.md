@@ -16,6 +16,5 @@ Hi, I’m a Full-Stack Developer who enjoys building complete applications—fro
 ![](https://github-profile-trophy.vercel.app/?username=Pana52&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pana52&icon=7&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
