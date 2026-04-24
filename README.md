@@ -6,27 +6,31 @@
 
 ---
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+- 🖥️ I'm a **Full-Stack Developer** who enjoys building complete applications — from backend logic and databases to modern, responsive user interfaces
+- 💼 Professionally, I contribute to **real-world projects** across both backend and frontend, turning requirements into working features and delivering reliable improvements
+- 🤝 I thrive in **team environments**, collaborating to make products better for users
+- 🎮 In my free time I love working on **Unity game projects**, experimenting with gameplay systems and procedural ideas
+- 🎨 I combine game dev with **3D modelling in Blender** to create assets and environments
+- 📚 I'm constantly learning — improving my skills through **hands-on projects** and sharing progress along the way
 
-```typescript
-const Panayiotis = {
-  role        : "Full-Stack Developer",
-  passions    : ["Game Dev (Unity)", "3D Modelling (Blender)", "Clean UI/UX"],
-  currentFocus: "Building great products & creative game experiments",
-  learning    : "Always — hands-on, project by project",
-  contact     : "panayiotisth71@gmail.com",
-};
-```
+</td>
+<td width="50%" valign="top">
 
-- 🖥️ I build **end-to-end applications** — from databases & APIs to polished UIs
-- 🎮 In my free time I experiment with **Unity gameplay systems** & procedural generation
-- 🎨 I create **3D assets & environments** in Blender to support my game projects
-- 🤝 I thrive in team environments, turning requirements into real, working features
-- ⚡ Fun fact: my side projects are basically mini-game studios
+## 📊 GitHub Stats
 
-<br clear="right"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Pana52&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pana52&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Pana52&theme=dracula&hide_border=true&fire=FF6B6B&ring=BD93F9&currStreakLabel=BD93F9" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,35 +83,6 @@ const Panayiotis = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Pana52&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pana52&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pana52&theme=dracula&hide_border=true&fire=FF6B6B&ring=BD93F9&currStreakLabel=BD93F9" width="55%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pana52&theme=dracula&no-frame=true&no-bg=false&margin-w=6&row=1" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pana52&theme=dracula&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" width="100%"/>
 </p>
@@ -115,5 +90,3 @@ const Panayiotis = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pana52&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS" />
 </p>
-
-<p align="center"><i>"Ship it, iterate, and never stop building."</i></p>
