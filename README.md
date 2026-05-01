@@ -84,7 +84,6 @@
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0d0000?style=for-the-badge&logo=intellijidea&logoColor=FF3333"/>
 <img src="https://img.shields.io/badge/PyCharm-0d0000?style=for-the-badge&logo=pycharm&logoColor=FF3333"/>
 <img src="https://img.shields.io/badge/Blender-0d0000?style=for-the-badge&logo=blender&logoColor=FF3333"/>
-<img src="https://img.shields.io/badge/Microsoft%20Office-0d0000?style=for-the-badge&logo=microsoft-office&logoColor=FF3333"/>
 
 </td>
 </tr>
